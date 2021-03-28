@@ -1,0 +1,17 @@
+.location-title {
+    font-weight: bold;
+    opacity : 0.5;
+    margin-bottom: 1rem;
+}
+
+.location-input {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 4px 2px -2px rgb(224, 222, 222);
+    line-height: 3.5rem;
+    width : 100%
+}
+
+.location-input:focus {
+    outline: none;
+}

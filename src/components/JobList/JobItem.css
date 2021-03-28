@@ -1,0 +1,75 @@
+.job-item-card {
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin-bottom: 2rem;
+    position: relative;
+    height: 10rem;
+}
+
+.job-item-content {
+    display: flex;
+    flex-direction: row;
+    padding: 0 5% 3%;
+    color: #3d4f86;
+}
+
+.job-item-logo {
+    width: 10%;
+    position: relative;
+}
+.job-item-logo img {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.job-item-post {
+    margin-left: 2rem;
+    width: 50%;
+}
+
+.job-item-post p {
+    margin-top: 0.4rem;
+}
+
+.job-item-company {
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.job-item-title {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.job-item-contract {
+    border: 1px solid #2724c2;
+    border-radius: 3px;
+    text-align: center;
+    font-weight: bold;
+    display: inline;
+    padding: 0 10px;
+}
+
+.job-item-date {
+    opacity: 0.5;
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    display: flex;
+}
+
+.job-item-date p {
+    margin-bottom: 0;
+    padding-left: 2rem;
+}
+
+.job-item-date span {
+    vertical-align: middle;
+    margin-right: 5px;
+    font-size: 1.4rem;
+}

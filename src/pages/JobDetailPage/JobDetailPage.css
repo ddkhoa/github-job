@@ -1,0 +1,43 @@
+.job-detail-title {
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #2724c2;
+}
+
+.job-detail-contract {
+    margin-left: 3rem;
+    display: inline;
+    color: #2724c2;
+    border: 1px solid #2724c2;
+    border-radius: 3px;
+    text-align: center;
+    font-weight: bold;
+    display: inline;
+    padding: 0 10px;
+}
+
+.job-detail-info span {
+    vertical-align: middle;
+    margin-right: 5px;
+    font-size: 1.4rem;
+}
+
+.job-detail-company {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.job-detail-company img {
+    width: 15%;
+    margin: 2rem 0;
+}
+
+.job-detail-companyname {
+    font-weight: 700;
+}
+
+.job-detail-info {
+    opacity: 0.5;
+}

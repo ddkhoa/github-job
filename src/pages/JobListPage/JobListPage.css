@@ -1,0 +1,26 @@
+.input-12rem {
+    font-size: 1.2rem;
+}
+
+.loader {
+    margin: auto;
+}
+
+.left-menu-item {
+    margin-bottom: 1rem;
+}
+
+.filter-input {
+    transform: scale(1.5);
+}
+
+.filter-text {
+    margin-left: 0.7rem;
+    font-weight: 500;
+}
+
+::placeholder {
+    opacity: 0.6;
+    font-size: 0.9rem;
+    padding-left: 1rem;
+}
